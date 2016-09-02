@@ -23,3 +23,8 @@ Route::get('about', function(){
 Route::get('about', function(){
     return 'hello';
 });
+
+//brance issue-1 chanes
+Route::get('home', function(){
+    return 'hello';
+});
