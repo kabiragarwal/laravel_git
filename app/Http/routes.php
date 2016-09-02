@@ -20,7 +20,7 @@ Route::get('about', function(){
 });
 
 
-//master branch issue fixing
+//brance issue-1 chanes
 Route::get('about', function(){
     return 'hello';
 });
