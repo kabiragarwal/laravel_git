@@ -18,3 +18,9 @@ Route::get('/', function () {
 Route::get('about', function(){
     return 'hello';
 });
+
+
+//master branch issue fixing
+Route::get('about', function(){
+    return 'hello';
+});
