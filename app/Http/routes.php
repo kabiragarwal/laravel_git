@@ -18,3 +18,8 @@ Route::get('/', function () {
 Route::get('about', function(){
     return 'hello';
 });
+
+//brance issue-1 chanes
+Route::get('about', function(){
+    return 'hello';
+});
