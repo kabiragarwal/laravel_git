@@ -21,6 +21,11 @@ Route::get('about', function(){
 
 
 //brance issue-1 chanes
-Route::get('about', function(){
+Route::get('test', function(){
+    return 'hello';
+});
+
+//git master changes
+Route::get('contact', function(){
     return 'hello';
 });
