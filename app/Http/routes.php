@@ -29,3 +29,8 @@ Route::get('test', function(){
 Route::get('contact', function(){
     return 'hello';
 });
+
+//brance issue-1 chanes
+Route::get('home', function(){
+    return 'hello';
+});
