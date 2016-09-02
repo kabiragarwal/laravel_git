@@ -32,5 +32,5 @@ Route::get('contact', function(){
 
 //brance issue-1 chanes
 Route::get('home', function(){
-    return 'hello';
+    return '123hello';
 });
