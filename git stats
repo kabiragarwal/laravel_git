@@ -1,0 +1,68 @@
+[33mcommit 81700985913f4ff723acd0f29b98759a12f0ece7[m
+Merge: 54672c7 3d5b10b
+Author: kabiragarwal <kabiragarwal71@gmail.com>
+Date:   Fri Sep 2 16:07:41 2016 +0530
+
+    master file editing
+
+[33mcommit 54672c7c5250108b1f9d5b4f1b4df3ad8d0f3ff4[m
+Author: kabiragarwal <kabiragarwal71@gmail.com>
+Date:   Fri Sep 2 15:18:34 2016 +0530
+
+    master file editing
+
+[33mcommit 3d5b10b6e599d4a16c48f2b11d6c5f2cce93a06a[m
+Author: kabiragarwal <kabiragarwal71@gmail.com>
+Date:   Fri Sep 2 15:17:49 2016 +0530
+
+    learn merge conflict
+
+[33mcommit ba6aae8550dded58130623b8bea07219a6b8c5e3[m
+Merge: a31be03 d13c08f
+Author: kabiragarwal <kabiragarwal71@gmail.com>
+Date:   Fri Sep 2 14:45:29 2016 +0530
+
+    Merge branch 'issue-1'
+
+[33mcommit d13c08fca35660292dbdac7682e590b49dee1e9f[m
+Author: kabiragarwal <kabiragarwal71@gmail.com>
+Date:   Fri Sep 2 14:44:48 2016 +0530
+
+    branch update
+
+[33mcommit a31be03c1cb58c619dade5f8344126ebd4adc2a6[m
+Author: kabiragarwal <kabiragarwal71@gmail.com>
+Date:   Fri Sep 2 14:43:31 2016 +0530
+
+    seperate changes
+
+[33mcommit 198a1905c9006a981d1fb30991c3e15afd9e2f46[m
+Merge: 5cfc946 7baa4fa
+Author: kabiragarwal <kabiragarwal71@gmail.com>
+Date:   Fri Sep 2 14:38:55 2016 +0530
+
+    final update
+
+[33mcommit 5cfc94637b7b4b2a348086885ac19f45a172912f[m
+Author: kabiragarwal <kabiragarwal71@gmail.com>
+Date:   Fri Sep 2 13:30:19 2016 +0530
+
+    master branch isue fixed
+
+[33mcommit 7baa4fa7fe080ec0874dd49067e902506fade6ac[m
+Author: kabiragarwal <kabiragarwal71@gmail.com>
+Date:   Fri Sep 2 13:28:45 2016 +0530
+
+    branche issue-1 is fixed
+
+[33mcommit 12326ecadf6a072e44c8c65a2bc6bb30e4475d1f[m
+Author: kabiragarwal <kabiragarwal71@gmail.com>
+Date:   Fri Sep 2 13:26:10 2016 +0530
+
+    route changes
+
+[33mcommit 4f46c6cc5175258eb94cc87e65a6aa6be315d2b9[m
+Author: kabiragarwal <kabiragarwal71@gmail.com>
+Date:   Fri Sep 2 13:11:43 2016 +0530
+
+    Install laravel
