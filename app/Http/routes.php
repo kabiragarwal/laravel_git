@@ -34,3 +34,6 @@ Route::get('contact', function(){
 Route::get('home', function(){
     return '123hello';
 });
+
+Route::resource('reports', 'ReportsController');
+Route::resource('pages', 'PagesController');
