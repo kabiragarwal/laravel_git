@@ -35,5 +35,10 @@ Route::get('home', function(){
     return '123hello';
 });
 
+//git testing
+Route::get('home13', function(){
+    return 'this is git testing';
+});
+
 Route::resource('reports', 'ReportsController');
 Route::resource('pages', 'PagesController');
